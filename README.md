@@ -18,4 +18,4 @@ A user-friendly Python GUI application that generates customized QR codes instan
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/amanyadav-xm/GUI_based_QRCODE_GENERATOR.git
